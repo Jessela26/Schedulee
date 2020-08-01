@@ -6,5 +6,10 @@
       "library": "jqueryui@1.12.1",
       "destination": "wwwroot/jqueryui/"
     }
-  ]
+  ,
+{
+  "library": "clndr@1.5.1",
+  "destination": "wwwroot/lib/clndr/"
+}
+]
 }

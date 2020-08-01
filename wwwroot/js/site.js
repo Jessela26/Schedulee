@@ -5,4 +5,8 @@
 
 $(function () {
     $("#scheduleTabs").tabs();
+
+    $('#calendar').clndr({
+        template: $('#calendar-template').html()
+    });
 });
